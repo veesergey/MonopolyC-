@@ -1,0 +1,8 @@
+﻿  Board.cpp
+  Card.cpp
+  Game.cpp
+  main.cpp
+  player.cpp
+c:\users\veese\c++\monopoly\monopoly\monopoly-master\monopoly\player.cpp(189): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Monopoly.vcxproj -> C:\Users\veese\C++\Monopoly\Monopoly\Monopoly-master\x64\Debug\Monopoly.exe
